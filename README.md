@@ -1,6 +1,6 @@
 # Udemy Course Sketch, Invision, Craft, Columns
 
-Udemy course covering wireframing with sketch, protoyping with Invision & the Craft plugin, and accouting for responsive design for easy development hand-off.
+Udemy course covering wire-framing with sketch, prototyping with Invision & the Craft plugin, and accounting for responsive design for easy development hand-off.
 
 **Invision Link**: https://invis.io/KVRXX6IFPB2
 
