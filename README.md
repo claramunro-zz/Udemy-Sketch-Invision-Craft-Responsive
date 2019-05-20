@@ -11,6 +11,12 @@ Udemy course covering wire-framing with sketch, prototyping with Invision & the 
 
 <table>
   <td><img src="/images/spendo1.png" /></td>
+</table>
+
+<table>
   <td><img src="/images/spendo2.png" /></td>
+</table>
+
+<table>
     <td><img src="/images/spendo3.png" /></td>
 </table>
