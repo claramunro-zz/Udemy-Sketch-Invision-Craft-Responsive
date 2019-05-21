@@ -2,6 +2,15 @@
 
 Udemy course covering wire-framing with sketch, prototyping with Invision & the Craft plugin, and accounting for responsive design for easy development hand-off.
 
+* symbols / setting up style guides
+* exporting assets, Craft plugin
+* image/alignment plugins for faster development
+* layers & grouping layers by components etc
+* working with vectors (pen tool)
+* boolean operations
+* settings up columns / working in 8 point grid system
+
+
 **Invision Link**: https://invis.io/KVRXX6IFPB2
 
 
